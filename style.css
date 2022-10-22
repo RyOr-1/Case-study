@@ -1,0 +1,63 @@
+.headingSmall {
+    background: white;
+    font-size: 25px;
+    color: black;
+    border-radius: 20px;
+    padding-bottom: 15cpx;
+    width: 1000px;
+}
+
+.heading {
+    padding: 20px;
+    font-size: 40px;
+    border-radius: 50px;
+}
+
+.imageAndResults {
+    background-color: lightslategray;
+    color: white;
+    font-size: 20;
+    padding: 40px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+}
+
+.googleLens,
+.mobileNet {
+    font-size: large;
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+}
+
+.googleLens b,
+.mobileNet b {
+    color: red;
+}
+
+.googleLens span,
+.mobileNet span {
+    color: blue;
+    font-size: 25px;
+}
+
+#break {
+    padding: 5px;
+    margin-top: 280px;
+    background-color: white;
+}
+
+.testImg {
+    width: 150px;
+    height: 200px;
+}
+
+#conclusion {
+    color: red;
+    font-size: 20px;
+}
